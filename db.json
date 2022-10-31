@@ -1,56 +1,52 @@
 {
-    "produtos": [
+    "tatuadores": [
       {
         "id": 1,
-        "nome": "",
-        "descricao": "",
-        "preco": 8 ,
-        "categoria_id": 1
+        "nome": "Brenda Palácios",
+        "experiencia": "3 anos de experiência de trabalho.",
+        "estilo": "ORIENTAL" ,
+        "descricao":"Cores fortes e elementos da cultura japonesa são a característica essencial nesse estilo de tatuagem. Ficaram famosas por causa da máfia japonesa Yakuza, e tem como uma característica supermarcante desenhos que fecham todo o corpo ou parte dele.",
+        "traços_id": 1
       },
       {
         "id": 2,
-        "nome": "",
-        "descricao": "",
-        "preco": 10.5,
-        "categoria_id":2 
+        "nome": "Benicio Braga",
+        "experiencia": "2 anos de experiência de trabalho.",
+        "estilo":"NEW SCHOOL"  ,
+        "descricao":"As cores vibrantes são a principal característica das tatuagens new school. Porém, diferente das old school, elas possuem uma maior variedade de tons e traços. A temática urbana, que lembram cartoons e a arte do grafitti são marcantes nos desenhos deste estilo.",
+        "traços_id": 2
       },
       {
         "id": 3,
-        "nome": "",
-        "descricao": "",
-        "preco": 12.5,
-        "categoria_id": 1
+        "nome": "Fernando Torres",
+        "experiencia": "8 anos de experiência de trabalho.",
+        "estilo":"BOLD LINE"  ,
+        "descricao":"As bold lines são uma espécie de mistura entre as tatuagens old school e as new school, com inspiração em desenhos animados e personagens de quadrinhos. Possuem geralmente traços grossos e cores vibrantes, porém não chapadas.",
+        "traços_id": 2
       },
       {
         "id": 4,
-        "nome": "",
-        "descricao": "",
-        "preco": 14.5,
-        "categoria_id": 2
-      },
-      {
-        "id": 5,
-        "nome": "",
-        "descricao": "",
-        "preco": 5,
-        "categoria_id": 1
-      },
-      {
-        "id": 6,
-        "nome": "",
-        "descricao": "",
-        "preco": 7.5,
-        "categoria_id": 2
+        "nome": "Marília Fernandes",
+        "experiencia": "5 anos de experiência de trabalho.",
+        "estilo": "REALISMO E PORTRAIT" ,
+        "descricao":"Sua característica principal é reproduzir o mais fiel possível uma imagem ou uma foto na pele com todas as suas cores e detalhes. O portrait por sua vez é a técnica de representar fielmente rostos de personalidades famosas ou pessoas comuns.",
+        "traços_id": 1
       }
     ],
-    "categorias": [
+    "traços": [
       {
         "id": 1,
-        "nome": ""
+        "nome": "traço fino",
+        "agulha":"Liner"
       },
       {
-        "id": 2,
-        "nome": ""
+        "id":2 ,
+        "nome": "traço grosso",
+        "agulha":"Magnum"
       }
+
+    ],
+    "alguma coisa":[
+
     ]
   }
