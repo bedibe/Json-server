@@ -1,1 +1,2 @@
-# ProjetoIM3-Json_server
+# Projeto Individual Modulo 3
+Json-server
