@@ -16,7 +16,7 @@
       "estilo": "NEW SCHOOL",
       "descricao": "As cores vibrantes são a principal característica das tatuagens new school. Porém, diferente das old school, elas possuem uma maior variedade de tons e traços. A temática urbana, que lembram cartoons e a arte do grafitti são marcantes nos desenhos deste estilo.",
       "traços_id": 2,
-      "studios_id":1
+      "studios_id": 1
     },
     {
       "id": 3,
@@ -64,30 +64,29 @@
       "id": 1,
       "nome": "Tattoo You",
       "descricao": "O Tattoo You foi o primeiro estúdio de tatuagem de São Paulo, criado em 1979 por Marco Leoni, um tatuador italiano que chegou ao Brasil para divulgar seu trabalho artístico. A inspiração para o nome do estúdio veio do disco de Rolling Stones. Hoje existem duas unidades e tem até o próprio bloco de carnaval.",
-      "endereco": "- Rua Tabapuã, 1443 - Itaim Bibi" ,
-      "contato":"11 997154987"
+      "endereco": "- Rua Tabapuã, 1443 - Itaim Bibi",
+      "contato": "11 997154987"
     },
     {
       "id": 2,
-      "nome":"Gellys Tattoo",
-      "descricao":"Um ambiente que além de excelentes profissionais, possui alta qualidade na perfuração. Com foco e paciência na escolha e execução, já conta com três unidades em funcionamento." ,
-      "endereco":"Rua Mourato Coelho , 939 – Vila Madalena",
-      "contato":"11 38137239"
-      
+      "nome": "Gellys Tattoo",
+      "descricao": "Um ambiente que além de excelentes profissionais, possui alta qualidade na perfuração. Com foco e paciência na escolha e execução, já conta com três unidades em funcionamento.",
+      "endereco": "Rua Mourato Coelho , 939 – Vila Madalena",
+      "contato": "11 38137239"
     },
     {
       "id": 3,
-      "nome":"Leds Tattoo" ,
+      "nome": "Leds Tattoo",
       "descricao": "O Led's já se tornou um estúdio muito conceituado na cidade de São Paulo e conta com a presença de profissionais de primeira. Inclusive muitos profissionais cresceram lá e, depois, montaram seu próprio negócio.",
-      "endereco":"Avenida Ibirapuera, 3478 – Moema",
+      "endereco": "Avenida Ibirapuera, 3478 – Moema",
       "contato": "11 968438968"
     },
     {
       "id": 4,
-      "nome":"Soul Tattoo Art & Café" , 
-      "descricao":"O estúdio surgiu da ideia de ter um lugar que, além de ótimos tatuadores, oferecesse outros aspectos atrativos. Assim, além do ambiente para tatuagens, os clientes podem andar por uma galeria de arte, tomar um café e visitar uma loja de joias." ,
-      "endereco":"Rua Oscar Freire, 2203 – Pinheir",
-      "contato":"11 951771956"
+      "nome": "Soul Tattoo Art & Café",
+      "descricao": "O estúdio surgiu da ideia de ter um lugar que, além de ótimos tatuadores, oferecesse outros aspectos atrativos. Assim, além do ambiente para tatuagens, os clientes podem andar por uma galeria de arte, tomar um café e visitar uma loja de joias.",
+      "endereco": "Rua Oscar Freire, 2203 – Pinheir",
+      "contato": "11 951771956"
     }
   ]
 }
