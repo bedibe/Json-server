@@ -11,7 +11,7 @@
 <a href="#autoria">Autoria</a>
 </p>
 
-<h1 align="center"> - API Rest</h1>
+<h1 align="center"> API Rest</h1>
 
 ### Sobre
 
