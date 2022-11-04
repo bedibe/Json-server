@@ -54,10 +54,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 *Ferramentas*
 
 Node.js prompt de comando
+</br>
 VS Code
+</br>
 Render
+</br>
 Postman
-
+</br>
 ---
 ### Demonstração da aplicação
 
@@ -73,7 +76,7 @@ O verbo `put` é utilizado para atualizar recursos/registros específicos no ban
 
 O verbo `delete` é utilizado para receber um parâmetro para deleção. A operação CRUD equivalente é a de `delete`.
 
-
+---
 
 ### Testes Unitários
 
@@ -81,12 +84,13 @@ O arquivo de testes foi implementado ao projeto para conferir o funcionamento da
 
  Você pode optar pela mesma ou instalar outra ferramenta semelhante como o [Postman](https://www.postman.com/) ou [Insomnia](https://insomnia.rest/).
 
+---
 
 ### Autoria
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardo-adelino-1a9335232/)]() 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cardosovanessafs@gmail.com)](mailto:beadelino@gmail.com) 
 
-
+---
 <p>Feito por Bernardo Rezende!</p>
 
