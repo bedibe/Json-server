@@ -91,6 +91,6 @@ O arquivo de testes foi implementado ao projeto para conferir o funcionamento da
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardo-adelino-1a9335232/)]() 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cardosovanessafs@gmail.com)](mailto:beadelino@gmail.com) 
 
----
+
 <p>Feito por Bernardo Rezende!</p>
 
