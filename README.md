@@ -32,16 +32,16 @@ Antes de começar, você precisa ter instalado em sua máquina as seguintes ferr
 $ git clone <https://github.com/bedibe/Json-server>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd Projetoim3-json_server / Json-server
-
-# Vá para a pasta server
-$ cd server
+$ cd Json-server
 
 # Instale as dependências
 $ npm install
+ 
+# Instale o Json-server na máquina
+$ npm install -g json-server
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
+# Código para mostrar a porta
+$ json-server --watch db.json
 
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
